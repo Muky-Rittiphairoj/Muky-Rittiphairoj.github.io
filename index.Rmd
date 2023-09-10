@@ -7,7 +7,7 @@ links:
   - label: GitHub
     url: "https://github.com/Muky-Rittiphairoj"
   - label: Email
-    url: "trittip1@jh.edu"
+    url: "mailto:trittip1@jh.edu"
 output:
   postcards::jolla
 ---
