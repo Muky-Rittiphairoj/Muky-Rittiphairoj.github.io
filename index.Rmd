@@ -12,6 +12,6 @@ output:
   postcards::jolla
 ---
  
-I am a second-year PhD student in the Health Systems program at Johns Hopkins University. I am a medical doctor by training from Bangkok, Thailand. My research area of interest is in service delivery reform and resource allocation of preventive health service systems for non-communicable diseases in LMICs. I have been using STATA, SAS, and R, and been keen to take this class to be more proficient in R. 
+I am a second-year PhD student in the Health Systems program at Johns Hopkins University. I am a medical doctor by training from Bangkok, Thailand. My research area of interest is in service delivery reform and resource allocation of preventive health service systems for non-communicable diseases in LMICs. I have been using STATA, SAS, and R, and been keen to take this class to be more proficient at R. 
 
 Fun facts about myself: I love cooking, baking, singing, and playing piano. I have been a pianist since I was three. When I was fifteen, I ruptured my wrist tendon during my piano practice and needed a surgical repair. Fortunately, my wrist is now fully recovered, and I still enjoy playing piano!
